@@ -1,3 +1,1 @@
-"# polling-backend" 
-"# fiservseminars-polls-backend" 
-"# fiservseminars-polls-backend" 
+Polling API/backend for Fiserv Seminars
